@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bed
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pushkarajgharat@gmail.com
-- i have website - https://newsinmarathi.xyz
+- i have website - <a href="https://newsinmarathi.xyz">Business marathi news</a>
 
 <!---
 pushkarajgharat/pushkarajgharat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
